@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    word-spacing: 8px;
+     cursor: pointer;
+}
